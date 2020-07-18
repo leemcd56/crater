@@ -39,7 +39,7 @@
     "easy-pie-chart": "^2.1.7",
     "fs": "0.0.1-security",
     "guid": "0.0.12",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "moment": "^2.18.1",
     "npm": "^6.4.1",
     "popper.js": "^1.12.9",
