@@ -40,7 +40,7 @@
     "fs": "0.0.1-security",
     "guid": "0.0.12",
     "lodash": "^4.17.13",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "npm": "^6.4.1",
     "popper.js": "^1.12.9",
     "sweet-modal-vue": "^2.0.0",
